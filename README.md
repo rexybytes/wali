@@ -3,7 +3,7 @@ README for Wali
 This simple script will change the desktop wallpaper between intervals specified
 by the user. The interval is specified on the command line.
 Run this script like this:
-	python wallpaper.py <directory> <interval in s>
+	python wallpaper.py 'directory' 'interval in s'
 	
 Example
  	python wallpaper.py ~/wallpapers 300
